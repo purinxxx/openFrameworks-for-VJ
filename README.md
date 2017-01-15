@@ -1,0 +1,3 @@
+# openFrameworks-for-VJ
+
+VJのためのopenFrameworksプロジェクト
